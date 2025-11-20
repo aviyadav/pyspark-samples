@@ -1,0 +1,11 @@
+[project]
+name = "pyspark-iceberg-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "findspark>=2.0.1",
+    "py4j>=0.10.9.9",
+    "pyspark>=4.0.1",
+]
