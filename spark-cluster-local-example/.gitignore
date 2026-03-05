@@ -1,0 +1,11 @@
+venv
+*.csv
+*.crc
+*.parquet
+_SUCCESS
+
+data/results/
+logs/
+temp/
+
+.DS_Store
