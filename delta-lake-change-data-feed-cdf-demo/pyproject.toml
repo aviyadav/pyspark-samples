@@ -1,0 +1,13 @@
+[project]
+name = "delta-lake-change-data-feed-cdf-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "delta-spark>=4.3.0",
+    "deltalake>=1.6.1",
+    "pandas>=3.0.3",
+    "pyarrow>=24.0.0",
+    "pyspark>=4.1.1",
+]
